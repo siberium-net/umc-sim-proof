@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f1115"/>
+      <stop offset="100%" stop-color="#1b2230"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="60" y="140" font-family="Inter,Segoe UI,Arial" font-weight="800" font-size="64" fill="#e7e7ea">UMC SIM PROOF — Transit</text>
+  <text x="60" y="210" font-family="Inter,Segoe UI,Arial" font-size="28" fill="#9aa4b2">Counter‑Strike 2 • Easter Egg Checkpoint</text>
+  <rect x="60" y="260" width="1080" height="230" rx="12" fill="#0b0d11" stroke="#2a3242" stroke-width="2"/>
+  <foreignObject x="80" y="280" width="1040" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: ui-monospace, SFMono-Regular, Menlo, Consolas; color: #b6f0c2; font-size: 22px; line-height: 1.45; word-break: break-all;">
+      UMC SIM PROOF BTC 916800 HSH 0000000000000000000105166ece4d079c9aa3952a83c03b877944248cc7f9a9
+    </div>
+  </foreignObject>
+</svg>
+
